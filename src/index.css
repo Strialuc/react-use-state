@@ -1,5 +1,16 @@
+/* Reset */
+
 * {
   margin: 0;
   box-sizing: border-box;
   padding: 0;
+}
+
+
+/*Layout header*/
+
+header {
+  padding: 10px;
+  background-color: lightgray;
+
 }
